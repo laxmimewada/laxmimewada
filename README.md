@@ -26,7 +26,7 @@
 &nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/laxmimewada?style=for-the-badge&logo=github&logoColor=white&color=5B21B6&label=FOLLOWERS)](https://github.com/laxmimewada?tab=followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/laxmimewada?style=for-the-badge&logo=github&logoColor=white&color=7B2FBE&label=STARS)](https://github.com/laxmimewada?tab=repositories)
+[![GitHub Stars](![GitHub Stars](https://img.shields.io/badge/STARS-3-7B2FBE?style=for-the-badge&logo=github&logoColor=white))
 
 </div>
 
