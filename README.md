@@ -301,23 +301,16 @@ I approach every system with a bias toward **scalability, clean architecture, an
 ## ◈ Current Focus
 
 ```yaml
-Engineering:
-  Learning:
-    - Advanced DSA (Trees, Graphs, Dynamic Programming)
-    - System Design Fundamentals (LLD + HLD)
-    - Advanced SQL & ETL Pipeline Design
-    - RAG Systems and LLM Application Architecture
-
-  Building:
-    - Production-grade FastAPI services
-    - Scalable data pipelines
-    - AI-augmented analytics tools
+Learning:
+  - Advanced DSA
+  - System Design fundamentals
+  - Advanced SQL & ETL pipelines
 
 Open To:
   - Software Engineering Internships
-  - Software Engineer Roles (Backend / Full-Stack)
+  - Software Engineer Roles
   - Data Analyst Roles
-  - Hackathons & Open Source Collaboration
+  - Hackathons & collaboration
 ```
 
 ---
