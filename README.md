@@ -332,9 +332,6 @@ Open To:
 <div align="center">
 
 *"Consistency beats intensity — small daily improvements lead to massive results over time."*
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,5B21B6&height=120&section=footer&animation=fadeIn" width="100%" />
-
 </div>
